@@ -15,9 +15,9 @@ DSP/
 └── README.md
 ```
 
-## 👥 Thành viên tham gia
-- Vi Triệu ([@Voenix7](https://github.com/Voenix7))
-- Bạn cùng nhóm (Collaborator)
+## 👥 Thành viên thực hiện
+- **Nguyễn Triều Vĩ** - MSSV: `2313940` ([@Voenix7](https://github.com/Voenix7))
+- **Nguyễn Lê Khoa** - MSSV: `2411635`
 
 ---
 
