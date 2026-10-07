@@ -1,0 +1,25 @@
+# Scilab & MATLAB
+*.bin
+*.cos
+*.sod
+*.dia
+*.log
+*.asv
+*.m~
+*.mat
+
+# Python & Jupyter (nếu có sử dụng)
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.env/
+
+# OS and Editor files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
+*~
+*.bak
