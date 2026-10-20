@@ -7,7 +7,7 @@ Báo cáo và mã nguồn các bài thực hành môn **Xử lý Tín hiệu S�
 ```text
 DSP/
 ├── lab12/         # Lab 1 & 2: Tín hiệu & Hệ thống rời rạc (Scilab)
-├── lab3/          # Lab 3
+├── lab3/          # Lab 3: Các phép toán tín hiệu rời rạc & Tích chập (Convolution)
 ├── lab4/          # Lab 4
 ├── lab5/          # Lab 5
 ├── lab6/          # Lab 6
